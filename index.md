@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: "Raphael Cunha"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
