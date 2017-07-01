@@ -30,12 +30,15 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
+  - title: Research
+    url: /research
+  - title: Teaching
+    url: /teaching
+  - title: CV
     url: http://coletownsend.com
     external: true
+  - title: Contact
+    url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
