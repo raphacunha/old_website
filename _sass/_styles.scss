@@ -183,7 +183,6 @@ header.site-header {
   z-index: 5000;
   .wrap {
       max-width: 90vw;
-      padding-top: 100px;
   }
 
 }
@@ -296,7 +295,8 @@ header.site-header nav {
     
     .featured-image {
         vertical-align: middle;
-        min-height: 360px;
+        margin-top:  100px;
+	min-height: 360px;
         height: 50vh;
         width: 100%;
         max-height: 800px;
