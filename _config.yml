@@ -5,16 +5,16 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Raphael Cunha
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            
+  email:          cunha.6@osu.edu
+  twitter:        raphaccunha
+  github:         raphacunha
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       
   # Plug in your disqus shortname!
 
 tools:
