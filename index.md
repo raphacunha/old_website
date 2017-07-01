@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Home"
+description:
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
