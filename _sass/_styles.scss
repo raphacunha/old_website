@@ -1,8 +1,7 @@
 /************ Basic *************/
 
 body {
-  font-family: "Times New Roman", Times, serif;
-  //font-family: $serif;
+  font-family: $serif;
   color: $black;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
