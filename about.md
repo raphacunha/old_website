@@ -1,14 +1,12 @@
 ---
 layout: post
 permalink: /about/index.html
-title: Test
-description: Test
+title:
+description:
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
 ### Features
 * flexible, uses max-width for responsive goodness
