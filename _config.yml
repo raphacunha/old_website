@@ -29,7 +29,7 @@ opengraph:
 # For external links add external: true
 links:
   - title: About
-    url: /newabout
+    url: /about
   - title: Research
     url: /research
   - title: Teaching
