@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /about/index.html
-title:
-description:
+title: Test
+description: Test
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
