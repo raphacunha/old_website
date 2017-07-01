@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: "About"
+description: Research
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
