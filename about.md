@@ -5,7 +5,7 @@ title: "About"
 description: Research
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: Sao_Paulo_Stock_Exchange.jpg
 ---
 
 
