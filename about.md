@@ -1,13 +1,11 @@
 ---
 layout: page
-permalink: /about/index.html
 title:
 description:
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-
 
 
 ### Features
