@@ -11,6 +11,8 @@ image:
 #### CONTACT INFORMATION
 
 
+<img src="../images/twitter_logo.png" width="10">
+
 |<br/>Email<br/><br/> | <br/>cunha.6 at osu.edu<br/><br/> |
 |<img src="../images/twitter_logo.png" width="10"> | <br/>@raphaccunha<br/><br/> |
 |<br/>Mailing address<br/><br/> | <br/>Department of Political Science<br/>2140 Derby Hall, 154 N. Oval Mall<br/>Columbus, Ohio 43210<br/><br/> |
