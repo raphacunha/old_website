@@ -15,7 +15,7 @@ image:
 
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143093" target="_blank">Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender</a>. _PLoS ONE_ 10(11): e0143093, 2015. (with Jan Box-Steffensmeier et al.) [<a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
 
-<a href="http://dx.doi.org/10.1590/0034-7329201500108" target="_blank">Negociações Comerciais em uma Economia Fechada: O Brasil e o Comércio de Serviços na Rodada Uruguai [Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round]</a>. _Revista Brasileira de Política Internacional_ 58(1): 142–163, 2015. [<a href="http://www.scielo.br/pdf/rbpi/v58n1/0034-7329-rbpi-58-01-00142.pdf" target="_blank">PDF</a>]
+<a href="http://dx.doi.org/10.1590/0034-7329201500108" target="_blank">Negociações Comerciais em uma Economia Fechada: O Brasil e o Comércio de Serviços na Rodada Uruguai [_Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round_]</a>. _Revista Brasileira de Política Internacional_ 58(1): 142–163, 2015. [<a href="http://www.scielo.br/pdf/rbpi/v58n1/0034-7329-rbpi-58-01-00142.pdf" target="_blank">PDF</a>]
 
 
 
