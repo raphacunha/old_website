@@ -5,7 +5,7 @@ title: "Research"
 description:
 tags: [research, publications, peer reviewed, articles]
 image:
-  feature: Sao_Paulo_Stock_Exchange.jpg
+  feature: old_stock_market_filters.jpg
 ---
 
 #### PEER-REVIEWED ARTICLES
