@@ -4,7 +4,7 @@ title: "Home"
 description:
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: nyse.jpg
+  feature: Sao_Paulo_Stock_Exchange.jpg
 ---
 
 
