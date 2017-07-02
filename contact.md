@@ -11,7 +11,7 @@ image:
 #### CONTACT INFORMATION
 
 
-<img src="../images/twitter_logo.png" width="10">
+<img src="../images/twitter_logo.png" style="width: 20px;">
 
 |<br/>Email<br/><br/> | <br/>cunha.6 at osu.edu<br/><br/> |
 |<img src="../images/twitter_logo.png" width="10"> | <br/>@raphaccunha<br/><br/> |
