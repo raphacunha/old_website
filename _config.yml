@@ -31,7 +31,7 @@ links:
   - title: Research
     url: /research
   - title: CV
-    url: pdf/CunhaCV.pdf
+    url: /pdf/CunhaCV.pdf
     external: true
   - title: Contact
     url: /contact
