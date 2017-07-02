@@ -1,12 +1,12 @@
 title:            Raphael Cunha
-tagline:          Postdoctoral Researcher
-description:      Describe your website.
+tagline:          
+description:      
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
   name:           Raphael Cunha
-  avatar:         avatar.png
+  avatar:         
   bio:            
   email:          cunha.6@osu.edu
   twitter:        raphaccunha
@@ -28,14 +28,10 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Research
     url: /research
-  - title: Teaching
-    url: /teaching
   - title: CV
-    url: http://coletownsend.com
+    url: pdf/CunhaCV.pdf
     external: true
   - title: Contact
     url: /contact
