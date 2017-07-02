@@ -10,9 +10,7 @@ image:
 
 #### CONTACT INFORMARTION
 
-Email: cunha.6 at osu.edu
-
-![Twitter](../images/twitter_logo.png) @raphaccunha
+Email: cunha.6 at osu.edu ![Twitter](../images/twitter_logo.png) @raphaccunha
 
 ##### Mailing address
 
