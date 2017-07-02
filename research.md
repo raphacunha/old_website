@@ -23,4 +23,4 @@ Externa [_Domestic Preferences and Institutions in Foreign Economic Policymaking
 
 #### EDITOR-REVIEWED ARTICLES
 
-<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>. _Journal of World Trade_ 39(4): 637–670, 2005. (with Norma B. dos Santos & Rogério Farias) [<a href="pdf/Santos_etal_2005.pdf">PDF</a>]
+<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>. _Journal of World Trade_ 39(4): 637–670, 2005. (with Norma B. dos Santos & Rogério Farias) [<a href="../pdf/Santos_etal_2005.pdf">PDF</a>]
