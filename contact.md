@@ -5,7 +5,7 @@ title: "Contact"
 description:
 tags: [contact]
 image:
-  feature: Sao_Paulo_Stock_Exchange.jpg
+  feature: wall_st_filters.jpg
 ---
 
 #### CONTACT INFORMATION
