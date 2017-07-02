@@ -12,7 +12,7 @@ image:
 
 Email: cunha.6 at osu.edu
 
-![twitter](../images/twitter_logo.png){width="30px"} @raphaccunha
+![twitter](../images/twitter_logo.png){:width="30px"} @raphaccunha
 
 ##### Mailing address
 
