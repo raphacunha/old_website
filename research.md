@@ -2,22 +2,20 @@
 layout: page
 permalink: /research/index.html
 title: "Research"
-description: Research
+description:
 tags: [research, publications, peer reviewed, articles]
 image:
   feature: Sao_Paulo_Stock_Exchange.jpg
 ---
 
 
-### PEER-REVIEWED ARTICLES
+#### PEER-REVIEWED ARTICLES
 
-<a href="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors’ Shortcuts Affect Sovereign Debt Markets</a>. _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)
+<a href="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>. *International Studies Quarterly* 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)
 
-“Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender.” (with Jan Box-Steffensmeier et al.)
-PLoS ONE. 10(11): e0143093, 2015. [PDF]
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143093" target="_blank">Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender</a>. _PLoS ONE_. 10(11): e0143093, 2015. (with Jan Box-Steffensmeier et al.) [<a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
 
-“Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round.”
-Revista Brasileira de Política Internacional. 58(1): 142–163, 2015. [PDF (Portuguese)]
+Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round. _Revista Brasileira de Política Internacional_. 58(1): 142–163, 2015. [PDF (Portuguese)]
 
 “The International Economic Relations of the Geisel Administration (1974–1979).” (with Rogério Farias)
 Revista Brasileira de Política Internacional 54(2): 46–69, 2011. [PDF (Portuguese)]
