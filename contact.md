@@ -12,7 +12,7 @@ image:
 
 Email: cunha.6 at osu.edu
 
-<img src="../images/twitter_logo.png" style="width: 10px;"/>
+<img src="../images/twitter_logo.png" align="left" style="width: 20px;"/>
 
 ##### Mailing address
 
