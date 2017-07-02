@@ -10,3 +10,13 @@ image:
 
 #### CONTACT INFORMARTION
 
+Email: cunha.6 at osu.edu
+
+![alt text](../images/twitter_logo.png) @raphaccunha
+
+##### Mailing address
+
+Department of Political Science
+The Ohio State University
+2140 Derby Hall, 154 N. Oval Mall
+Columbus, Ohio 43210
