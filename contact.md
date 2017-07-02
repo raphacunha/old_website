@@ -8,11 +8,11 @@ image:
   feature: Sao_Paulo_Stock_Exchange.jpg
 ---
 
-#### CONTACT INFORMARTION
+#### CONTACT INFORMATION
 
 Email: cunha.6 at osu.edu
 
-<img src="../images/twitter_logo.png" align="left" style="width: 20px;"/>
+<img src="../images/twitter_logo.png" align="left" style="width: 20px;"/> @raphaccunha
 
 ##### Mailing address
 
