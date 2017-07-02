@@ -9,7 +9,7 @@ image:
 
 
 
-My research interests cover international and comparative political economy, with a focus on the politics of financial globalization and sovereign credit risk. During the 2017–2018 academic year, I will be a Postdoctoral Research Associate at the <a href="http://example.com/" target="_blank">Niehaus Center for Globalization and Governance at Princeton University</a>. Beginning in the fall of 2018, I will be an Assistant Professor of Political Science at [Florida State University](http://coss.fsu.edu/polisci/home). I received my Ph.D. in [Political Science](http://www.polisci.osu.edu) from [The Ohio State University](http://www.polisci.osu.edu) (2017).
+My research interests cover international and comparative political economy, with a focus on the politics of financial globalization and sovereign credit risk. During the 2017–2018 academic year, I will be a Postdoctoral Research Associate at the <a href="http://ncgg-new.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance at Princeton University</a>. Beginning in the fall of 2018, I will be an Assistant Professor of Political Science at <a href="http://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a>. I received my Ph.D. in <a href="http://www.polisci.osu.edu" target="_blank">Political Science</a> from <a href="http://www.polisci.osu.edu" target="_blank">The Ohio State University</a> (2017).
 
 ### Features
 * flexible, uses max-width for responsive goodness
