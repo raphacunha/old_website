@@ -11,12 +11,12 @@ image:
 #### CONTACT INFORMATION
 
 
-|Email | cunha.6 at osu.edu |
-|Twitter | @raphaccunha |
-|Mailing address | <br/>Department of Political Science<br/>2140 Derby Hall, 154 N. Oval Mall<br/> |
+|Email | <br/>cunha.6 at osu.edu<br/> |
+|Twitter | <br/>@raphaccunha<br/> |
+|Mailing address | <br/>Department of Political Science<br/>2140 Derby Hall, 154 N. Oval Mall<br/>Columbus, Ohio 43210<br/> |
 
 
-Columbus, Ohio 43210
+
 
 
 
