@@ -40,14 +40,14 @@ $serif: "Crimson Text", "Lora", "Playfair Display", serif;
 
 /** * 12 & 16 as roots then powers of two. */
 
-$fsp:20px;
+$fsp:20px; //Normal text font
 
 $fs1:64px;
 $fs2:48px;
 $fs3:32px;
 $fs4:24px;
-$fs5:20px;
-$fs6:16px;
+$fs5:20px; //Normal header font
+$fs6:12px; //Footer text font
 
 // Line Height
 
