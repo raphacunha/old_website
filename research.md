@@ -8,7 +8,7 @@ image:
   feature: old_stock_market_filters.jpg
 ---
 
-#### PEER-REVIEWED ARTICLES
+#### peer-reviewed articles
 
 <a href="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>. _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley) [<a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a>]
 
@@ -21,6 +21,6 @@ image:
 <a href="http://ref.scielo.org/rxhwwf" target="_blank">Preferências Domésticas e Instituições do Processo Decisório em Política Econômica
 Externa [_Domestic Preferences and Institutions in Foreign Economic Policymaking_].</a> _Dados_ 52(4): 871–910, 2009. [<a href="http://www.scielo.br/pdf/dados/v52n4/v52n4a03.pdf" target="_blank">PDF</a>]
 
-#### EDITOR-REVIEWED ARTICLES
+#### editor reviewed articles
 
 <a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>. _Journal of World Trade_ 39(4): 637–670, 2005. (with Norma B. dos Santos & Rogério Farias) [<a href="../pdf/Santos_etal_2005.pdf" target="_blank">PDF</a>]
