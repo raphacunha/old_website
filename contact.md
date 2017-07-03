@@ -8,7 +8,7 @@ image:
   feature: wall_st_filters.jpg
 ---
 
-#### CONTACT INFORMATION
+#### contact information
 
 
 
