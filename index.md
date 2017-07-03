@@ -4,7 +4,7 @@ title: "Home"
 description:
 tags: [bio, raphael cunha, international political economy, financial markets, contagion, political methodology]
 image:
-  feature: bovespa_filters.jpg
+  feature: bovespa_noir_tonal_tonal_crop.jpg
 ---
 
 
