@@ -5,7 +5,7 @@ title: "Contact"
 description:
 tags: [contact]
 image:
-  feature: wall_st_lund_crop_noir_chrome.jpg
+  feature: wall_st_lund_crop_noir_tonal_tonal.jpg
 ---
 
 #### contact information
