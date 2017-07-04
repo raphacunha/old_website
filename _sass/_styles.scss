@@ -239,7 +239,7 @@ header.site-header hgroup {
   a {
       color: #fff;
       //color: #c43136;
-      @include transit(all, .2s, ease);
+      //@include transit(all, .2s, ease);
 
       &:hover {
 	color: $accent;
