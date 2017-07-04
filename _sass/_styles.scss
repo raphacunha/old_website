@@ -242,10 +242,9 @@ header.site-header hgroup {
       @include transit(all, .2s, ease);
 
       &:hover {
-	color: #c43136;
-        //@include tshd(0, 0, 3px, rgba(255,255,255,.6));
-	//@include tshd(0, 0, 3px, rgba(196,49,54,1));      
-        @include transit(all, .2s, ease);
+	color: $accent;
+        //@include tshd(0, 0, 3px, rgba(255,255,255,.6));      
+        //@include transit(all, .2s, ease);
       }
   }
 }
