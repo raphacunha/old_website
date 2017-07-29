@@ -12,4 +12,4 @@ image:
 
 <img src="../images/email_icon.png" style="width: 30px;" align="left"> | rcunha [at] princeton.edu 
 <img src="../images/twitter_icon.png" style="width: 30px;" align="left"> | @raphaccunha 
-<img src="../images/mailing_icon.png" style="width: 30px;" align="left"> | Niehaus Center for Globalization and Governance<br>Princeton University<br>441A Robertson Hall<br>Princeton, NJ  08544-1013 
+<img src="../images/mailing_icon.png" style="width: 30px;" align="left"> | Niehaus Center for Globalization and Governance<br>Princeton University<br>441A Robertson Hall<br>Princeton, NJ  08544
