@@ -29,4 +29,4 @@ Externa [_Domestic Preferences and Institutions in Foreign Economic Policymaking
 
 #### working papers
 
-<a href="https://osf.io/preprints/socarxiv/xr3un/" target="_blank">US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election</a>. (with Andreas Kern)
+<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election</a>. (with Andreas Kern)
