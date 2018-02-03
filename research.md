@@ -10,7 +10,7 @@ image:
 
 #### peer-reviewed articles
 
-__Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets__. _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)
+"Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets." _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)
 [<a href="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://www.isanet.org/Publications/ISQ/Replication-Data?doi=10.1111/isqu.12173" target="_blank">Replication</a>]
 
 Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender. _PLoS ONE_ 10(11): e0143093, 2015. (with Jan Box-Steffensmeier et al.)
