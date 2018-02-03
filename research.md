@@ -28,12 +28,14 @@ Preferências Domésticas e Instituições do Processo Decisório em Política E
 
 
 #### editor-reviewed articles
+------
 
 Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues. _Journal of World Trade_ 39(4): 637–670, 2005. (with Norma B. dos Santos & Rogério Farias)
 [<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_etal_2005.pdf" target="_blank">PDF</a>]
 
 
 #### working papers
+------
 
 US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election. (with Andreas Kern)
 [<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
