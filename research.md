@@ -20,10 +20,10 @@ Negociações Comerciais em uma Economia Fechada: O Brasil e o Comércio de Serv
 [<a href="http://dx.doi.org/10.1590/0034-7329201500108" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v58n1/0034-7329-rbpi-58-01-00142.pdf" target="_blank">PDF</a>]
 
 As Relações Econômicas Internacionais do Governo Geisel (1974–1979) [_The International Economic Relations of the Geisel Administration (1974–1979)_]. _Revista Brasileira de Política Internacional_ 54(2): 46–69, 2011. (with Rogério Farias)<br/>
-[<a href="http://ref.scielo.org/y7cbvm" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v54n2/v54n2a03.pdf" target="_blank">PDF</a>]
+[<a href="http://dx.doi.org/10.1590/S0034-73292011000200003" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v54n2/v54n2a03.pdf" target="_blank">PDF</a>]
 
 Preferências Domésticas e Instituições do Processo Decisório em Política Econômica Externa [_Domestic Preferences and Institutions in Foreign Economic Policymaking_]. _Dados_ 52(4): 871–910, 2009.<br/>
-[<a href="http://ref.scielo.org/rxhwwf" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/dados/v52n4/v52n4a03.pdf" target="_blank">PDF</a>]
+[<a href="http://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/dados/v52n4/v52n4a03.pdf" target="_blank">PDF</a>]
 
 
 #### editor-reviewed articles
