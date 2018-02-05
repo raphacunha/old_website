@@ -14,7 +14,7 @@ Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sov
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a>]
 
 Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender. _PLoS ONE_ 10(11): e0143093, 2015. (with Jan Box-Steffensmeier et al.)<br/>
-[<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143093" target="_blank">Publisher</a> \| <a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
+[<a href="http://doi.org/10.1371/journal.pone.0143093" target="_blank">Publisher</a> \| <a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
 
 Negociações Comerciais em uma Economia Fechada: O Brasil e o Comércio de Serviços na Rodada Uruguai [_Trade Negotiations in a Closed Economy: Brazil and Trade in Services in the Uruguay Round_]. _Revista Brasileira de Política Internacional_ 58(1): 142–163, 2015.<br/>
 [<a href="http://dx.doi.org/10.1590/0034-7329201500108" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/rbpi/v58n1/0034-7329-rbpi-58-01-00142.pdf" target="_blank">PDF</a>]
