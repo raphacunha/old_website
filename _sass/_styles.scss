@@ -159,8 +159,7 @@ input {
 }
 
 .wrap {
-    //max-width: 960px;
-    max-width: 500px;
+    max-width: 960px;
     @include column(10);
     float: none;
     margin: 0 auto;
@@ -643,9 +642,9 @@ footer {
         bottom: $footerHeight/4;
 	font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .5);
+        color: transparentize($white, .4);
         a {
-            color: transparentize($white, .3);
+            color: transparentize($white, .2);
         }
     }
     
