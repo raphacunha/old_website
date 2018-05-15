@@ -67,20 +67,6 @@ blockquote, blockquote p {
 }
 
 
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    border: 0;
-}
-
-th {
-    border: 0;
-}
-
-td {
-    border: 0;
-}
-
 /*   Code Formatting    */
 
 code {
@@ -533,13 +519,13 @@ header.site-header nav {
 
     tbody {
 	   tr:hover > td, tr:hover > th {
-		  background-color: $grey-medium;
+		  //background-color: $grey-medium;
 	   }
     }
 
     thead {
 	   tr:first-child td {
-		  border-bottom: 2px solid $grey-dark;
+		  //border-bottom: 2px solid $grey-dark;
 	   }
     }
 
@@ -551,12 +537,12 @@ header.site-header nav {
 	   font-weight: bold;
 	   text-align: left;
 	   background-color: $grey-light;
-	   border-bottom: 1px solid darken($grey-dark, 15%);
+	   //border-bottom: 1px solid darken($grey-dark, 15%);
     }
 
     td {
 	   font-size: $fs5;
-       border-bottom: 1px solid $grey-dark;
+       //border-bottom: 1px solid $grey-dark;
 	   padding: (0px + $lhsmall) / 2;
 	   padding: (0rem + ($lhsmall / $fsp)) / 2;
     }
