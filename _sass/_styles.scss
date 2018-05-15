@@ -530,7 +530,8 @@ header.site-header nav {
 //    }
 
     th {
-           //padding: (0px + $lhsmall) / 2;
+           padding: -50x;
+	    //padding: (0px + $lhsmall) / 2;
 	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
 	   //font-family: $sans;
            //font-size: $fs4;
@@ -541,7 +542,8 @@ header.site-header nav {
     }
 
     td {
-	   //font-size: $fs4;
+	   padding: -50x;
+	    //font-size: $fs4;
            //border-bottom: 1px solid $grey-dark;
 	   //padding: (0px + $lhsmall) / 2;
 	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
