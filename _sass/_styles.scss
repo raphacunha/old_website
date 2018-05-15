@@ -67,6 +67,20 @@ blockquote, blockquote p {
 }
 
 
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0;
+}
+
+th {
+    border: 0;
+}
+
+td {
+    border: 0;
+}
+
 /*   Code Formatting    */
 
 code {
