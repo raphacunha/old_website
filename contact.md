@@ -8,6 +8,6 @@ image:
   feature: wall_st_lund_crop_noir_tonal_tonal.jpg
 ---
 
-<img src="../images/email_icon.png" style="width: 25px;" align="middle"> | rcunha [at] princeton [dot] edu 
-<img src="../images/twitter_icon.png" style="width: 25px;" align="middle"> | @raphaccunha 
-<img src="../images/mailing_icon.png" style="width: 25px;" align="middle"> | Niehaus Center for Globalization and Governance<br>Princeton University<br>441A Robertson Hall<br>Princeton, NJ  08544
+<img src="../images/email_icon.png" style="width: 25px;" align="left"> | rcunha [at] princeton [dot] edu 
+<img src="../images/twitter_icon.png" style="width: 25px;" align="left"> | @raphaccunha 
+<img src="../images/mailing_icon.png" style="width: 25px;" align="left"> | Niehaus Center for Globalization and Governance<br>Princeton University<br>441A Robertson Hall<br>Princeton, NJ  08544
