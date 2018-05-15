@@ -58,10 +58,11 @@ sup {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
-    line-height: 1.3em;
-    text-align: center;
-    color: lighten($black, .2);
+    font-style: normal;
+    font-size: $fs5;
+    line-height: 95%;
+    text-align: left;
+    //color: lighten($black, .2);
     margin-bottom: $lh;
 }
 
