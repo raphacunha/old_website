@@ -530,10 +530,10 @@ header.site-header nav {
     }
 
     th {
-       padding: (0px + $lhsmall) / 2;
-	   padding: (0rem + ($lhsmall / $fsp)) / 2;
+       //padding: (0px + $lhsmall) / 2;
+	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
 	   font-family: $sans;
-       font-size: $fs5;
+       font-size: $fs6;
 	   font-weight: bold;
 	   text-align: left;
 	   background-color: $grey-light;
@@ -541,10 +541,10 @@ header.site-header nav {
     }
 
     td {
-	   font-size: $fs5;
+	   font-size: $fs6;
        //border-bottom: 1px solid $grey-dark;
-	   padding: (0px + $lhsmall) / 2;
-	   padding: (0rem + ($lhsmall / $fsp)) / 2;
+	   //padding: (0px + $lhsmall) / 2;
+	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
     }
 
     tr, td, th {
