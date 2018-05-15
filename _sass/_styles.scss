@@ -159,7 +159,8 @@ input {
 }
 
 .wrap {
-    max-width: 960px;
+    //max-width: 960px;
+    max-width: 500px;
     @include column(10);
     float: none;
     margin: 0 auto;
