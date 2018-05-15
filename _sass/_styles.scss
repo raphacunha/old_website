@@ -238,7 +238,7 @@ header.site-header hgroup {
       text-transform: uppercase;
   }
   a {
-      color: #fff;
+      color: #ffffff;
       //color: #c43136;
       //@include transit(all, .2s, ease);
 
@@ -265,7 +265,7 @@ header.site-header nav {
     position: relative;
     margin-left: 20px; 
     a {
-        color: $black;
+        color: #ffffff;
         //@include transit(all, .2s, ease);
         &:hover {
 	    color: $accent;
