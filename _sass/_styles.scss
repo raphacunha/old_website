@@ -517,23 +517,23 @@ header.site-header nav {
         }
     }
 
-    tbody {
-	   tr:hover > td, tr:hover > th {
-		  //background-color: $grey-medium;
-	   }
-    }
+//    tbody {
+//	   tr:hover > td, tr:hover > th {
+//		  background-color: $grey-medium;
+//	   }
+//    }
 
-    thead {
-	   tr:first-child td {
-		  //border-bottom: 2px solid $grey-dark;
-	   }
-    }
+//    thead {
+//	   tr:first-child td {
+//		  border-bottom: 2px solid $grey-dark;
+//	   }
+//    }
 
     th {
-       //padding: (0px + $lhsmall) / 2;
+           //padding: (0px + $lhsmall) / 2;
 	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
 	   font-family: $sans;
-       font-size: $fs6;
+           font-size: $fs4;
 	   font-weight: bold;
 	   text-align: left;
 	   background-color: $grey-light;
@@ -541,8 +541,8 @@ header.site-header nav {
     }
 
     td {
-	   font-size: $fs6;
-       //border-bottom: 1px solid $grey-dark;
+	   font-size: $fs4;
+           //border-bottom: 1px solid $grey-dark;
 	   //padding: (0px + $lhsmall) / 2;
 	   //padding: (0rem + ($lhsmall / $fsp)) / 2;
     }
