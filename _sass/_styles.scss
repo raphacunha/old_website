@@ -638,7 +638,7 @@ footer {
         width: 100%;
         position: absolute;
         //bottom: 8px;
-        bottom: 50px;
+        bottom: $footerHeight/3;
 	font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .5);
