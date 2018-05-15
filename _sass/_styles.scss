@@ -637,8 +637,9 @@ footer {
         display: block;
         width: 100%;
         position: absolute;
-        bottom: 8px;
-        font-family: $sans;
+        //bottom: 8px;
+        bottom: 50px;
+	font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .5);
         a {
