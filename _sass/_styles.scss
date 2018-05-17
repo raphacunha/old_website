@@ -230,7 +230,7 @@ header.site-header hgroup h1, header.site-header nav ul {
 header.site-header hgroup {
   float: left;
   padding-left: 5vw;
-  padding-top: 5vw;
+  padding-top: 2vw;
   h1 {
       font-weight: 700;
       font-size: 18px;
@@ -256,6 +256,7 @@ header.site-header nav {
   float: right;
   display: block;
   padding-right: 5vw;
+  padding-top: 2vw;
   @include clearfix;
   
   ul li {
