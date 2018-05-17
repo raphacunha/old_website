@@ -8,7 +8,7 @@ image:
   feature: old_stock_market_noir_tonal_tonal_crop.jpg
 ---
 
-#### PEER-REVIEWED ARTICLES
+#### peer-reviewed articles
 ------
 
 Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets. _International Studies Quarterly_ 59(3): 587–601, 2015. (with Sarah Brooks & Layna Mosley)<br/>
