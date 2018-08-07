@@ -9,7 +9,7 @@ image:
 
 
 
-I am a political scientist with research interests in international and comparative political economy, with a particular focus on the politics of financial globalization and sovereign debt. I am an Assistant Professor of Political Science at <a href="http://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a> and was a Postdoctoral Research Associate at the <a href="http://ncgg-new.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at Princeton University.
+I am a political scientist with research interests in international and comparative political economy, with a particular focus on the politics of financial globalization and sovereign debt. I am an Assistant Professor in the Department of Political Science at <a href="http://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a> and was a Postdoctoral Research Associate at the <a href="http://ncgg-new.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at Princeton University.
 
 My research examines why and how global capital mobility conditions national political and economic events in emerging markets. I investigate the determinants of capital market responses to political events and national policies, paying close attention to multiple forms of contagion in the global political economy.
 
