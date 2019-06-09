@@ -7,9 +7,6 @@ tags:
 - raphael cunha
 - raphael coutinho da cunha
 - political science
-- brazil
-- florida state university
-- fsu
 - international political economy
 - political economy
 - finance
