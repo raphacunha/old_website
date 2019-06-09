@@ -226,14 +226,14 @@ header.site-header a.menu {
 }
 
 header.site-header hgroup h1, header.site-header nav ul {
-  font-family: $sans;
+  font-family: $headerfton;
 }
 header.site-header hgroup {
   float: left;
   padding-left: 5vw;
   h1 {
-      font-weight: 900;
-      font-size: 18px;
+      font-weight: 700;
+      font-size: 20px;
       line-height: 100%;
       color: $accent;
       letter-spacing: 2px;
