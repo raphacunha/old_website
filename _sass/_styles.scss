@@ -21,12 +21,12 @@ p {
 }
 
 a, a:visited, a:active {
-    color: $link;
+    color: $red;
     //@include transit(all,0.25s,ease-in-out);
 }
 
 a:hover {
-    color: $accent;
+    color: $red;
     //@include transit(all,.25s, ease-in-out)
 }
 
