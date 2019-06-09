@@ -246,6 +246,7 @@ header.site-header hgroup {
 
       &:hover {
 	color: $accent;
+	text-decoration: none;
         //@include tshd(0, 0, 3px, rgba(255,255,255,.6));      
         //@include transit(all, .2s, ease);
       }
@@ -271,6 +272,7 @@ header.site-header nav {
         //@include transit(all, .2s, ease);
         &:hover {
 	    color: $accent;
+	    text-decoration: none;
             //@include tshd(0, 0, 3px, rgba(255,255,255,.6));
             //@include transit(all, .2s, ease);
         }
