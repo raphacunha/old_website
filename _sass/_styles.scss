@@ -72,8 +72,9 @@ blockquote, blockquote p {
   border: 2px solid $grey-dark ;
   //text-align: center;
   //vertical-align: middle;
-  display:flex;
-  align-items:center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   //width: 250px;
   //height: 50px;
   //position: relative;
