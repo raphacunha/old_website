@@ -283,7 +283,7 @@ header.site-header nav {
   @include clearfix;
 
   ul li {
-    font-size: 20px;
+    font-size: 22px;
     text-transform: lowercase;
     display: inline;
     font-weight: 700;
@@ -792,6 +792,8 @@ footer {
     .social {
         display: none;
     }
+
+    font-size: $fs6;
 
     aside {
         width: 90%;
