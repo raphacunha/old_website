@@ -49,7 +49,7 @@ $headerfont: "Roboto Condensed", sans-serif; //Separate font for site header
 
 /** * 12 & 16 as roots then powers of two. */
 
-$fsp:20px; //Normal text font
+$fsp:16px; //Normal text font
 
 $fs1:64px;
 $fs2:48px;
@@ -67,6 +67,11 @@ $lhtext: 30px;
 // Sizing 
 //$footerHeight: 65px;
 $footerHeight: 80px;
+
+
+// Font Weight
+
+$semibold: 600;
 
 
 // Griddit
