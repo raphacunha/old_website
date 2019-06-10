@@ -559,8 +559,8 @@ header.site-header nav {
     ul {
         display: block;
         margin-bottom: $lh;
-        list-style: disc;
-        list-style-type: disc;
+        list-style: circle;
+        list-style-type: circle;
         lh h1, lh h2, lh h3, lh h4, lh h5 {
             @include underline(2px, solid, $grey-light);
         }
