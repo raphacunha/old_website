@@ -228,6 +228,7 @@ header.site-header a.menu {
 
 header.site-header hgroup h1, header.site-header nav ul {
   font-family: $headerfont;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 header.site-header hgroup {
   float: left;
