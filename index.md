@@ -17,8 +17,8 @@ I have research interests in international and comparative political economy, wi
 
 ***
 
-566 Bellamy Building | Florida State University
-rcunha [at] fsu [dot] edu
+566 Bellamy Building | Florida State University<br>
+rcunha [at] fsu [dot] edu<br>
 <a href="http://coss.fsu.edu/polisci/home" target="_blank">FSU Political Science</a>
 
 <!--- I analyze contagion dynamics from domestic to international investors in capital market reactions to politics, diffusion processes in governments' decisions to default on sovereign debt, as well as contagion in market assessments of government creditworthiness induced by investors' use of decision heuristics. --->
