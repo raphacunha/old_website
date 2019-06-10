@@ -57,6 +57,7 @@ $fs3:24px;
 $fs4:20px; //Normal header font
 $fs5:16px; 
 $fs6:12px; //Footer text font
+$fs7:10px; //Footer text font in mobile
 
 // Line Height
 
@@ -64,7 +65,7 @@ $lh: 33px;
 $lhsmall: 24px;
 $lhtext: 30px;
 
-// Sizing 
+// Sizing
 //$footerHeight: 65px;
 $footerHeight: 80px;
 
@@ -80,7 +81,7 @@ $semibold: 600;
 
 /* Break Points
    ========================================================================== */
-   
+
 /* Mobile */
 $breakpoint-1-max-width:480px;
 
@@ -92,4 +93,3 @@ $breakpoint-3-max-width:1200px;
    ========================================================================== */
 
 $borderR: 4px;
-
