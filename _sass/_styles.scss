@@ -558,7 +558,8 @@ header.site-header nav {
     
     ul {
         display: block;
-        margin-bottom: $lh;
+        //margin-bottom: $lh;
+        margin: 0; padding: 0;
         list-style: circle;
         list-style-type: circle;
         lh h1, lh h2, lh h3, lh h4, lh h5 {
@@ -567,8 +568,8 @@ header.site-header nav {
         li {
             list-style: circle;
             list-style-type: circle;
-            margin-left: $lh*2;
-            padding-left: $lh/3;
+            //margin-left: $lh*2;
+            //padding-left: $lh/3;
         &:last-child {
             margin-bottom: 0;
             }
