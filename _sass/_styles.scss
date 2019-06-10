@@ -72,9 +72,8 @@ blockquote, blockquote p {
   border: 2px solid $grey-medium ;
   width: 250px;
   height: 50px;
-  margin: 0;
-  position: absolute;
-  top: 50%; //centers text within box
+  text-align: center;
+  vertical-align: middle; //centers text within box
 }
 
 /*   Code Formatting    */
