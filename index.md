@@ -14,13 +14,13 @@ I am an Assistant Professor in the Department of Political Science at <a href="h
 I have research interests in international and comparative political economy, with a particular focus on the politics of financial globalization. My research examines why and how global capital mobility shapes politics and policymaking in emerging markets. I investigate the determinants of capital market responses to political events and national policies, paying close attention to multiple forms of contagion in the global political economy. Methodologically, I have interests in quantitative methods for the study of complex and dynamic interdependencies in international political economy data---such as multivariate time series analysis, spatial econometrics, and social network analysis.
 <br><br>
 <center>
-<div class="boxed" width="100" height="50">
+<div class="boxed">
 <a href="../pdf/CunhaCV.pdf" target="_blank">CURRICULUM VITAE</a>
 </div>
 </center>
 <br>
 
- <hr size="1"> 
+ <hr size="0.1">
 
 566 Bellamy Building | Florida State University<br>
 rcunha [at] fsu [dot] edu<br>
