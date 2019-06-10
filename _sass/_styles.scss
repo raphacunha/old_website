@@ -646,10 +646,13 @@ footer {
         bottom: $footerHeight/4;
 	      font-family: $sans;
         text-transform: uppercase;
-        text-decoration: none;
         color: transparentize($white, .4);
         a {
             color: transparentize($white, .2);
+
+            &:hover {
+      	text-decoration: none;
+            }
         }
     }
 
