@@ -14,6 +14,11 @@ image:
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> \| <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
 
+- <a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher website</a>
+- <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a>
+- <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication files</a>
+- <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary appendix</a>
+
 __<a href="http://doi.org/10.1371/journal.pone.0143093" target="_blank">Survival Analysis of Faculty Retention and Promotion in the Social Sciences by Gender</a>__ (with Jan Box-Steffensmeier et al.). 2015. _PLoS ONE_ 10(11): e0143093. <br/>
 [<a href="http://doi.org/10.1371/journal.pone.0143093" target="_blank">Publisher</a> \| <a href="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0143093&representation=PDF" target="_blank">PDF</a>]
 
