@@ -70,6 +70,8 @@ blockquote, blockquote p {
 
 .boxed { //box around text
   border: 2px solid $grey-medium ;
+  text-align: center;
+  vertical-align: middle;
   //width: 250px;
   //height: 50px;
   //position: relative;
