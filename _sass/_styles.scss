@@ -565,8 +565,8 @@ header.site-header nav {
             @include underline(2px, solid, $grey-light);
         }
         li {
-            list-style: disc;
-            list-style-type: disc;
+            list-style: circle;
+            list-style-type: circle;
             margin-left: $lh*2;
             padding-left: $lh/3;
         &:last-child {
