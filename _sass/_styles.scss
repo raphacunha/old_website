@@ -68,6 +68,9 @@ blockquote, blockquote p {
     margin-bottom: $lh;
 }
 
+.boxed { //box around text
+  border: 1px solid $grey-medium ;
+}
 
 /*   Code Formatting    */
 
