@@ -69,9 +69,10 @@ blockquote, blockquote p {
 }
 
 .boxed { //box around text
-  border: 2px solid $grey-medium ;
+  border: 2px solid $black ;
   width: 250px;
   height: 50px;
+  margin: auto; //centers text within box
 }
 
 /*   Code Formatting    */
