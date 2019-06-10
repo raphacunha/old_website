@@ -8,7 +8,7 @@ image:
   feature: old_stock_market_noir_tonal_tonal_crop.jpg
 ---
 
-#### _peer-reviewed articles_
+### peer-reviewed articles
 ------
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
