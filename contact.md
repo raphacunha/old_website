@@ -9,7 +9,7 @@ image:
 ---
 
 
-<s>__EMAIL__</s><br>
+<s><strong>EMAIL</strong></s>
 rcunha [at] fsu [dot] edu
 
 <s>__MAIL__</s><br>
