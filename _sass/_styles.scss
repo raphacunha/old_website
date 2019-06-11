@@ -38,6 +38,8 @@ em {
     font-style: italic;
 }
 
+s { font-style: normal; }
+
 s { // redefine s tag (strike-through) as color text
     color: $accent;
 }
