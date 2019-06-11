@@ -21,12 +21,12 @@ p {
 }
 
 a, a:visited, a:active {
-    color: $red;
+    color: $accent;
     //@include transit(all,0.25s,ease-in-out);
 }
 
 a:hover {
-    color: $red;
+    color: $accent;
     text-decoration: underline;
     //@include transit(all,.25s, ease-in-out)
 }
@@ -35,7 +35,8 @@ em {
     //padding: 1px 2px;
     //border-radius: 2px;
     //background: #ffe8c0;
-    font-style: italic;
+    //font-style: italic;
+    color: $accent;
 }
 
 strong {
