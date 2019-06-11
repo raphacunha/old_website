@@ -12,8 +12,11 @@ image:
 <s><strong>EMAIL</strong></s>
 rcunha [at] fsu [dot] edu
 
-<s><strong>MAIL</strong></s><br>
-Department of Political Science<br>Florida State University<br>566 Bellamy Building<br>Tallahassee, FL 32306
+<s><strong>MAIL</strong></s>
+Department of Political Science
+Florida State University
+566 Bellamy Building
+Tallahassee, FL 32306
 
-<s><strong>TWITTER</strong></s><br>
+<s><strong>TWITTER</strong></s>
 @raphaccunha

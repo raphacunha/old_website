@@ -38,7 +38,7 @@ em {
     font-style: italic;
 }
 
-s { // redefine s tag (strike-through) as color text
+s { // redefine s tag (html strike-through) as color text
     text-decoration : none !important;
     color: $accent;
 }
