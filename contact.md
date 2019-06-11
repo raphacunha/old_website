@@ -9,10 +9,13 @@ image:
 ---
 
 <em>__EMAIL__</em>
+
 rcunha [at] fsu [dot] edu
 
 <em>__MAIL__</em>
+
 Department of Political Science<br>Florida State University<br>566 Bellamy Building<br>Tallahassee, FL 32306
 
 <em>__TWITTER__</em>
+
 @raphaccunha
