@@ -9,11 +9,11 @@ image:
 ---
 
 
-<em>__EMAIL__</em><br>
+<s>__EMAIL__</s><br>
 rcunha [at] fsu [dot] edu
 
-<em>__MAIL__</em><br>
+<s>__MAIL__</s><br>
 Department of Political Science<br>Florida State University<br>566 Bellamy Building<br>Tallahassee, FL 32306
 
-<em>__TWITTER__</em><br>
+<s>__TWITTER__</s><br>
 @raphaccunha
