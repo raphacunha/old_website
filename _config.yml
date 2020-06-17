@@ -30,7 +30,7 @@ opengraph:
 links:
   - title: Research
     url: /research
-  - title: CV [PDF]
+  - title: CV (PDF)
     url: /pdf/CunhaCV.pdf
     external: true
   - title: Contact
