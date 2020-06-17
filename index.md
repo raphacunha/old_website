@@ -15,7 +15,7 @@ I have research interests in international and comparative political economy, wi
 <br><br>
 <center>
 <div class="boxed" style="width:250px;height:70px;">
-<a href="../pdf/CunhaCV.pdf" target="_blank">CURRICULUM VITAE [PDF]</a>
+<a href="../pdf/CunhaCV.pdf" target="_blank">CURRICULUM VITAE (PDF)</a>
 </div>
 </center>
 <br>
