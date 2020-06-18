@@ -209,7 +209,7 @@ input {
 /* Header */
 
 header.site-header {
-  padding: 30px 0;
+  padding: 20px 0;
   position: absolute;
   width: 100%;
   z-index: 5000;
@@ -224,7 +224,7 @@ header.site-header {
     vertical-align: middle;
     background-color: $black-transp;
     //min-height: 100px;
-    height: 12vh;
+    height: 10vh;
     width: 100%;
     //max-height: 800px;
     background-position: center center;
