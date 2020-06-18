@@ -219,11 +219,11 @@ header.site-header {
 
 }
 
-.navbox { /* Box over which navigation buttons are placed */
+.nav-box { /* Box over which navigation buttons are placed */
     vertical-align: middle;
-    background-color: black;
+    background-color: $black;
     //min-height: 100px;
-    height: 20vh;
+    height: 10vh;
     width: 100%;
     //max-height: 800px;
     background-position: center center;
