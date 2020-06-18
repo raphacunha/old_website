@@ -182,7 +182,7 @@ input {
 /************ Layout *************/
 
 #bump {
-    min-height: 100%;
+    min-height: 50%;
     height: auto;
     margin: 0 auto -$footerHeight;
 }
@@ -283,7 +283,6 @@ header.site-header hgroup {
 
 header.site-header nav {
   float: right;
-  background-color: black;
   display: block;
   padding-right: 5vw;
   @include clearfix;
