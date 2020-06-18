@@ -5,7 +5,7 @@ title: "Research"
 description:
 tags: [research, publications, peer reviewed, articles]
 image:
-  feature: old_stock_market_noir_tonal_tonal_crop_banner.jpg
+  feature: old_stock_market_noir_tonal_tonal_crop.jpg
 ---
 
 ## Peer-Reviewed Articles

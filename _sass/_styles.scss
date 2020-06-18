@@ -283,6 +283,7 @@ header.site-header hgroup {
 
 header.site-header nav {
   float: right;
+  background-color: black;
   display: block;
   padding-right: 5vw;
   @include clearfix;
