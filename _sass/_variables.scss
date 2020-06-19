@@ -37,7 +37,7 @@ $accent: #f03f35;
 /* Typography
    ========================================================================== */
 
-$sans: "Josefin Sans", "Source Sans Pro", sans-serif;
+$sans: "Open Sans", "Roboto", "Josefin Sans", "Source Sans Pro", sans-serif;
 //$sans: "Lato", "Source Sans Pro", "Merriweather Sans", "Open Sans", "Montserrat", "Roboto", "Helvetica Neue", "Arial", sans-serif;
 
 $sans-headers: "Josefin Sans", sans-serif;
@@ -55,7 +55,7 @@ $headerfont: "Josefin Sans", sans-serif; //Separate font for site header
 
 /** * 12 & 16 as roots then powers of two. */
 
-$fsp:18px; //Normal text font
+$fsp:16px; //Normal text font
 
 $fs1:32px;
 $fs2:28px;

@@ -2,7 +2,7 @@
 
 body {
   font-family: $sans;
-  font-weight: 300;
+  //font-weight: 300;
   color: $black;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
@@ -14,8 +14,8 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    //font-family: $sans-headers;
-    font-family: $serif;
+    font-family: $sans-headers;
+    //font-family: $serif;
 }
 
 p {
