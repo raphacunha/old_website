@@ -14,6 +14,7 @@ body {
 
 h1,h2,h3,h4,h5 {
     font-family: $sans-headers;
+    //font-family: $serif;
 }
 
 p {
@@ -308,7 +309,7 @@ header.site-header nav {
 
   ul li {
     font-size: 22px;
-    text-transform: lowercase;
+    //text-transform: lowercase;
     display: inline;
     font-weight: 500;
     top: 2px;
