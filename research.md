@@ -8,7 +8,7 @@ image:
   feature: old_stock_market_noir_tonal_tonal_crop.jpg
 ---
 
-## Peer-reviewed articles
+## Peer-Reviewed Articles
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> \| <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
@@ -26,13 +26,13 @@ __<a href="http://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">Pr
 [<a href="http://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">Publisher</a> \| <a href="http://www.scielo.br/pdf/dados/v52n4/v52n4a03.pdf" target="_blank">PDF</a>]
 
 ***
-## Editor-reviewed articles
+## Editor-Reviewed Articles
 
 __<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>__ (with Norma B. dos Santos & Rogério Farias). 2005. _Journal of World Trade_ 39(4): 637–670.<br/>
 [<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_etal_2005.pdf" target="_blank">PDF</a>]
 
 ***
-## Working papers
+## Working Papers
 
 __<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election</a>__ (with Andreas Kern). <br>
 [<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
