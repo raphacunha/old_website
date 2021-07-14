@@ -34,5 +34,5 @@ __<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005
 ***
 ## Working papers
 
-__<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">US Political Shocks, Global Banks, and International Financial Markets: Evidence from the 2016 Presidential Election</a>__ (with Andreas Kern). <br>
+__<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). <br>
 [<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
