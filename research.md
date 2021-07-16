@@ -10,6 +10,8 @@ image:
 
 ## Peer-reviewed articles
 
+__Sovereign Risk and Government Change: Elections, Ideology and Experience__ (with Sarah Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming.
+
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> \| <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
 
