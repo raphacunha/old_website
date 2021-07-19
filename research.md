@@ -10,6 +10,9 @@ image:
 
 ## Peer-reviewed articles
 
+__<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). _Review of International Organizations_. Forthcoming. <br>
+[<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
+
 __Sovereign Risk and Government Change: Elections, Ideology and Experience__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming.
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah M. Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
@@ -33,8 +36,5 @@ __<a href="http://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">Pr
 __<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>__ (with Norma B. dos Santos & Rogério Farias). 2005. _Journal of World Trade_ 39(4): 637–670.<br/>
 [<a href="http://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_etal_2005.pdf" target="_blank">PDF</a>]
 
-***
-## Working papers
 
-__<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). <br>
-[<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">SocArXiv PDF</a>]
+
