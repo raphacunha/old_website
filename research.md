@@ -13,7 +13,7 @@ image:
 __<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). _Review of International Organizations_. Forthcoming. <br/>
 [<a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a>]
 
-__Sovereign Risk and Government Change: Elections, Ideology and Experience__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming.<br/>
+__<a href="https://osf.io/y2gx3/" target="_blank">Sovereign Risk and Government Change: Elections, Ideology and Experience</a>__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming.<br/>
 [<a href="https://osf.io/y2gx3/" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="https://osf.io/2zvrb/" target="_blank">Supplementary Information</a>]
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah M. Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
