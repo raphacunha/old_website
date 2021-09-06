@@ -11,7 +11,7 @@ image:
 ## Peer-reviewed articles
 
 __<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). _Review of International Organizations_. Forthcoming. <br/>
-[<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Publisher</a> \| <a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/xnuf3/" target="_blank">Replication</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a>]
+[<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Publisher</a> \| <a href="https://doi.org/10.31235/osf.io/xr3un" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/xnuf3/" target="_blank">Replication</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a>]
 
 __<a href="https://osf.io/y2gx3/" target="_blank">Sovereign Risk and Government Change: Elections, Ideology and Experience</a>__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming. <br/>
 [<a href="https://osf.io/y2gx3/" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="https://osf.io/2zvrb/" target="_blank">Supplementary Information</a>]
