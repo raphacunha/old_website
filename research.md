@@ -14,7 +14,7 @@ __<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Ba
 [<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Publisher</a> \| <a href="http://dx.doi.org/10.17605/OSF.IO/XR3UN" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/xnuf3/" target="_blank">Replication</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a>]
 
 __<a href="https://osf.io/y2gx3/" target="_blank">Sovereign Risk and Government Change: Elections, Ideology and Experience</a>__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming. <br/>
-[<a href="" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="" target="_blank">Supplementary Information</a>]
+[<a href="https://osf.io/y2gx3/" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="" target="_blank">Supplementary Information</a>]
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah M. Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_etal_2015.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> \| <a href="../pdf/Brooks_etal_2015_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
