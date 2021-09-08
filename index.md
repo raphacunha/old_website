@@ -22,9 +22,9 @@ My research lies at the intersection of international and comparative political 
 
  ***
 
-<a href="https://scholar.google.com/citations?user=X1SOZHcAAAAJ" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0002-2415-3867" target="_blank">ORCID</a><br>
+<a href="https://scholar.google.com/citations?user=X1SOZHcAAAAJ" target="_blank">Google Scholar</a> \| <a href="https://orcid.org/0000-0002-2415-3867" target="_blank">ORCID</a><br>
 
-566 Bellamy Building | Florida State University<br>
+566 Bellamy Building \| Florida State University<br>
 rcunha [at] fsu [dot] edu<br>
 <a href="http://coss.fsu.edu/polisci/home" target="_blank">FSU Political Science</a>
 
