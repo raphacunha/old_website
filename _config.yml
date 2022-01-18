@@ -1,7 +1,7 @@
 title:            Raphael Cunha
 tagline:          
 description:      
-canonical:        https://raphaelcunha.info
+canonical:        http://raphaelcunha.info
 
 # Owner/author information
 owner:
@@ -34,7 +34,7 @@ links:
     url: /contact
   - title: CV (PDF)
     url: /pdf/Cunha_CV.pdf
-    external: true
+    #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
