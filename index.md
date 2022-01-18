@@ -9,7 +9,7 @@ image:
 
 
 
-I am an Assistant Professor in the Department of Political Science at <a href="http://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a>. Before joining FSU, I was a Postdoctoral Research Associate at the <a href="http://ncgg-new.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="http://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="http://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
+I am an Assistant Professor in the Department of Political Science at <a href="https://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a>. Before joining FSU, I was a Postdoctoral Research Associate at the <a href="http://ncgg-new.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="https://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="https://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
 
 My research lies at the intersection of international and comparative political economy with a focus on the politics of financial globalization. I investigate why and how global capital mobility shapes politics and policies in developing countries. Methodologically, I am interested in quantitative methods for the study of complex and dynamic interdependencies in political economy---including multivariate time series analysis, spatial econometrics, and social network analysis.
 <br><br>
@@ -26,7 +26,7 @@ My research lies at the intersection of international and comparative political 
 
 566 Bellamy Building \| Florida State University<br>
 rcunha [at] fsu [dot] edu<br>
-<a href="http://coss.fsu.edu/polisci/home" target="_blank">FSU Political Science</a>
+<a href="https://coss.fsu.edu/polisci/home" target="_blank">FSU Political Science</a>
 
 <!--- I analyze contagion dynamics from domestic to international investors in capital market reactions to politics, diffusion processes in governments' decisions to default on sovereign debt, as well as contagion in market assessments of government creditworthiness induced by investors' use of decision heuristics. --->
 
