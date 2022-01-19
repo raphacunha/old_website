@@ -15,7 +15,7 @@ My research lies at the intersection of international and comparative political 
 <br><br>
 <center>
 <div class="boxed" style="width:250px;height:70px;">
-<a href="../pdf/Cunha_CV.pdf" target="_blank">CURRICULUM VITAE (PDF)</a>
+<a href="../pdf/Cunha_CV.pdf" target="_blank">CURRICULUM VITAE [PDF]</a>
 </div>
 </center>
 <br>
