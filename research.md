@@ -16,7 +16,9 @@ __<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Ba
 __<a href="https://doi.org/10.1177%2F00104140211047407" target="_blank">Sovereign Risk and Government Change: Elections, Ideology and Experience</a>__ (with Sarah M. Brooks & Layna Mosley). _Comparative Political Studies_. Forthcoming. <br/>
 [<a href="https://doi.org/10.1177%2F00104140211047407" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_Cunha_Mosley_2022_CPS.pdf" target="_blank">PDF</a> \| <a href="https://doi.org/10.31235/osf.io/5axvm" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="https://osf.io/2zvrb/" target="_blank">Supplementary Information</a>]
 
-__<a href="" target="_blank">Signal Received? Authoritarian Elections and the Salience of Autocrats</a>__ (with Paul Schuler and Scott Williamson). _Electoral Studies_. Forthcoming. <br/>
+__<a href="https://doi.org/10.1016/j.electstud.2022.102441" target="_blank">Signal Received? Authoritarian Elections and the Salience of Autocrats</a>__ (with Paul Schuler and Scott Williamson). _Electoral Studies_. Forthcoming. <br/>
+
+[<a href="https://doi.org/10.1016/j.electstud.2022.102441" target="_blank">Publisher</a>]
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah M. Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
 [<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_Cunha_Mosley_2015_ISQ.pdf" target="_blank">PDF</a> \| <a href="http://dx.doi.org/10.7910/DVN/TPAB95" target="_blank">Replication</a> \| <a href="../pdf/Brooks_Cunha_Mosley_2015_ISQ_Appendix.pdf" target="_blank">Supplementary Appendix</a>]
