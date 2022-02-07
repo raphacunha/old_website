@@ -17,7 +17,6 @@ __<a href="https://doi.org/10.1177%2F00104140211047407" target="_blank">Sovereig
 [<a href="https://doi.org/10.1177%2F00104140211047407" target="_blank">Publisher</a> \| <a href="../pdf/Brooks_Cunha_Mosley_2022_CPS.pdf" target="_blank">PDF</a> \| <a href="https://doi.org/10.31235/osf.io/5axvm" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.7910/DVN/WJGJQ7" target="_blank">Replication</a> \| <a href="https://osf.io/2zvrb/" target="_blank">Supplementary Information</a>]
 
 __<a href="https://doi.org/10.1016/j.electstud.2022.102441" target="_blank">Signal Received? Authoritarian Elections and the Salience of Autocrats</a>__ (with Paul Schuler and Scott Williamson). _Electoral Studies_. Forthcoming. <br/>
-
 [<a href="https://doi.org/10.1016/j.electstud.2022.102441" target="_blank">Publisher</a> \| <a href="../pdf/Cunha_Schuler_Williamson_ES_Appendix.pdf" target="_blank">Supplementary Information</a>]
 
 __<a href="http://doi.org/10.1111/isqu.12173" target="_blank">Categories, Creditworthiness, and Contagion: How Investors' Shortcuts Affect Sovereign Debt Markets</a>__ (with Sarah M. Brooks & Layna Mosley). 2015. _International Studies Quarterly_ 59(3): 587–601.<br/>
