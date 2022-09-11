@@ -10,7 +10,7 @@ image:
 
 ## Peer-reviewed articles
 
-__<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). _Review of International Organizations_. Forthcoming. <br/>
+__<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). 2022. _Review of International Organizations_ 17: 717–749. <br/>
 [<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Publisher</a> \| <a href="../pdf/Cunha_Kern_2022_RIO.pdf" target="_blank">PDF</a> \| <a href="https://doi.org/10.31235/osf.io/xr3un" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/xnuf3/" target="_blank">Replication</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a>]
 
 __<a href="https://doi.org/10.1177%2F00104140211047407" target="_blank">Sovereign Risk and Government Change: Elections, Ideology and Experience</a>__ (with Sarah M. Brooks & Layna Mosley). 2022. _Comparative Political Studies_ 55(9): 1501–1538.<br/>
