@@ -10,7 +10,7 @@ image:
 
 
 <s><strong>EMAIL</strong></s>
-rcunha [at] fsu [dot] edu
+raphaelcunha2 [at] gmail [dot] com
 
 <s><strong>MAIL</strong></s>
 Department of Political Science<br>Florida State University<br>566 Bellamy Building<br>Tallahassee, FL 32306
