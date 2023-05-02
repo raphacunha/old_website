@@ -28,8 +28,3 @@ My research lies at the intersection of international and comparative political 
 raphaelcunha2 [at] gmail [dot] com<br>
 <a href="https://coss.fsu.edu/polisci/home" target="_blank">FSU Political Science</a>
 
-<!--- I analyze contagion dynamics from domestic to international investors in capital market reactions to politics, diffusion processes in governments' decisions to default on sovereign debt, as well as contagion in market assessments of government creditworthiness induced by investors' use of decision heuristics. --->
-
-<!--- I was a Senior Fellow in the <a href="https://polisci.osu.edu/research/prism" target="_blank">Program in Statistics and Methodology (PRISM)</a> at Ohio State University and have methodological interests in quantitative methods for the study of complex and dynamic interdependencies in political economy data, such as multivariate time series analysis, spatial econometrics, and social network analysis. --->
-
-<!--- Prior to joining OSU, I was a Policy Analyst/Advisor at the Brazilian Ministry of Finance, where I worked on the negotiation of international agreements on trade and investment in multilateral, regional, and bilateral forums, such as the WTO, OECD, and Mercosur. --->
