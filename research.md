@@ -10,7 +10,7 @@ image:
 
 ## Peer-reviewed articles
 
-__<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. Forthcoming. _International Studies Quarterly_. <br/>
+__<a href="" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. Forthcoming. _International Studies Quarterly_. <br/>
 <a href="../pdf/workingpapers/Cunha_Partial_Globalization.pdf" target="_blank">Preprint PDF</a>
 
 __<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). 2022. _Review of International Organizations_ 17(4): 717–749. <br/>
