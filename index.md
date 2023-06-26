@@ -9,9 +9,11 @@ image:
 
 
 
-I am an Assistant Professor in the Department of Political Science at <a href="https://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a>. Before joining FSU, I was a Postdoctoral Research Associate at the <a href="https://niehaus.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="https://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="https://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
+I'm a political scientist with interests in international and comparative political economy and a focus on the politics of international money and finance.
 
-My research lies at the intersection of international and comparative political economy with a focus on the politics of international money and finance. I investigate why and how global capital mobility shapes politics and policymaking in developing countries. Methodologically, I am interested in quantitative methods for the study of complex and dynamic interdependencies in international political economy---including multivariate time series analysis, spatial econometrics, and social network analysis.
+I'll be joining the <a href="https://www.kcl.ac.uk/political-economy" target="_blank">Department of Political Economy</a> at <a href="https://www.kcl.ac.uk" target="_blank">King's College London</a> in the fall of 2023. Previously, I was an Assistant Professor at <a href="https://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a> and a Postdoctoral Research Associate at the <a href="https://niehaus.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="https://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="https://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
+
+I investigate why and how global capital mobility shapes politics and policymaking in developing countries. Methodologically, I am interested in quantitative methods for the study of complex and dynamic interdependencies in international political economy---including multivariate time series analysis, spatial econometrics, and social network analysis.
 <br><br>
 <center>
 <div class="boxed" style="width:250px;height:70px;">
