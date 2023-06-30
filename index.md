@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 description:
-tags: [raphael cunha, raphael coutinho da cunha, political science, international political economy, political economy, finance, financial markets, globalization, contagion, interdependence, political methodology]
+tags: [raphael cunha, raphael coutinho da cunha, political science, international political economy, political economy, finance, money, capital flows, economic policy, financial markets, sovereign debt, globalization, contagion, interdependence, developing countries, emerging markets, brazil, latin america]
 image:
   feature: bovespa_noir_tonal_tonal_crop.jpg
 ---
