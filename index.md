@@ -12,6 +12,8 @@ image:
 I am a political scientist with research interests in international and comparative political economy. I am particularly interested in the politics of international money and finance.
 
 I will be joining the <a href="https://www.kcl.ac.uk/political-economy" target="_blank">Department of Political Economy</a> at <a href="https://www.kcl.ac.uk" target="_blank">King's College London</a> in the fall of 2023. Previously, I was an Assistant Professor at <a href="https://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a> and a Postdoctoral Research Associate at the <a href="https://niehaus.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="https://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="https://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
+
+You can view my <a href="../pdf/Cunha_CV.pdf" target="_blank">curriculum vitae</a> here.
 <br><br>
 
 ---
