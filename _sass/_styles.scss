@@ -476,7 +476,7 @@ header.site-header nav {
 
         .summary {
             font-size: 18px;
-            line-height: 1.45em;
+            line-height: 0;
         }
 
         .date {
@@ -516,10 +516,6 @@ header.site-header nav {
             margin-bottom: $lh/2;
         }
     }
-
-.dropdown {
-  display: inline-block;
-}
 
     h1 {
         font-style: italic;
