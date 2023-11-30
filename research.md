@@ -46,8 +46,7 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 __<a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets</a>__ <br>
 [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
-__<a href="" target="_blank"> Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil</a>__
-<details><summary>[ Abstract ]</summary>
+__<a href="" target="_blank"> Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil</a>__ <details><summary>[ Abstract ]</summary>
 <br>
 How do global capital flows affect corporate political contributions in developing countries? Scholars broadly agree that financial globalization affects left and right parties differently, but little is known about the effects of cross-border financial flows on campaign finance. I show that firms' contributions to left parties are more sensitive to capital inflows than contributions to right parties. This is consistent with a model that combines both ideological and access motivations. Firms have a baseline preference for right parties, but global financial booms create incentives for them to not only increase funding to capital-friendly parties, but also diversify their portfolios towards access to policymakers across the aisle. An analysis of new firm-level data on campaign contributions in Brazilian presidential elections supports this claim. The findings document an underappreciated mechanism through which global capital flows affect financial conditions for interparty competition, raising challenges to purely domestic models of money in politics. </details><br>
 
