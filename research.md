@@ -47,20 +47,14 @@ __<a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">When Volati
 [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
 __Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__<br>
-<details><summary>Abstract</summary>
-<br>
-How do global capital flows affect corporate political contributions in developing countries? Scholars broadly agree that financial globalization affects left and right parties differently, but little is known about the effects of cross-border financial flows on campaign finance. I show that firms' contributions to left parties are more sensitive to capital inflows than contributions to right parties. This is consistent with a model that combines both ideological and access motivations. Firms have a baseline preference for right parties, but global financial booms create incentives for them to not only increase funding to capital-friendly parties, but also diversify their portfolios towards access to policymakers across the aisle. An analysis of new firm-level data on campaign contributions in Brazilian presidential elections supports this claim. The findings document an underappreciated mechanism through which global capital flows affect financial conditions for interparty competition, raising challenges to purely domestic models of money in politics.
-</details>
 
 __Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election__ (with Sarah Brooks and Layna Mosley)
-<details><summary>Abstract</summary>
-<br>
-How do financial market outcomes affect mass attitudes toward election candidates? Elections can generate worries among professional investors over concerns about changes in government policy, especially in emerging and frontier market countries. While many analyses examine how markets react to elections and government change, less attention has been paid to whether and how financial market concerns around elections may shape mass preferences over candidates. We examine two channels through which financial markets could affect mass attitudes and vote choices: one based on voters' material interests and the other based on elite cues deriving from financial investors' responses to politics. We explore these mechanisms using data from an original survey experiment fielded during the 2022 Brazilian presidential election campaign.
-</details>
+[ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-16_12_22-sydney.white@yale.edu.pdf" target="_blank">IPES 2023 Paper</a> ]
+
+__Why Oppose Foreign Investment? Survey Experimental Evidence from India__ (with Quintin Beazer, Daniel Blake, and Srividya Jandhyala)
+[ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-09_51_08-raphaelcunha2@gmail.com.pdf" target="_blank">IPES 2023 Paper</a> ]
+Srividya Jandhyala
 
 __Landslide Elections and Stock Market Volatility: Why Markets Fluctuate Even After Electoral Blowouts__ (with Paul Schuler)
-<details><summary>Abstract</summary>
-<br>
-Do landslide and authoritarian elections increase stock market volatility? Conventional wisdom suggests close elections increase volatility due to uncertainty over the winner. We argue that the relationship between markets and elections is more complex. Differentiating between "electoral uncertainty," which pertains to election outcomes, and "economic policy uncertainty," which pertains to potential post-electoral policy changes, we theorize that close elections impact "electoral uncertainty," which should impact volatility immediately after results are known. However, in the post-electoral period, changes to government policy, which occur even after landslide elections, also generate volatility. Combining a fine-grained cross-national dataset of elections and market changes with a new dataset of ministerial turnover, which proxies for policy changes, we show that policy changes even after blowout elections lead to post-electoral volatility. These findings deepen our understanding of the relationship between elections and markets and underscore sources of uncertainty that surround even the most "certain" elections.
-</details>
+
 
