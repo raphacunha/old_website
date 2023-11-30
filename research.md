@@ -53,7 +53,6 @@ __Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazili
 
 __Why Oppose Foreign Investment? Survey Experimental Evidence from India__ (with Quintin Beazer, Daniel Blake, and Srividya Jandhyala)<br>
 [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-09_51_08-raphaelcunha2@gmail.com.pdf" target="_blank">IPES 2023 Paper</a> ]
-Srividya Jandhyala
 
 __Landslide Elections and Stock Market Volatility: Why Markets Fluctuate Even After Electoral Blowouts__ (with Paul Schuler)<br>
 
