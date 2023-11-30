@@ -43,7 +43,7 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 ***
 ## Working papers
 
-__<a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets</a>__ <br>
+__When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets__ <br>
 [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
 __Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__ <br>
