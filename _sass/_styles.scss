@@ -517,6 +517,10 @@ header.site-header nav {
         }
     }
 
+.dropdown {
+  display: inline-block;
+}
+
     h1 {
         font-style: italic;
     }
@@ -769,11 +773,6 @@ footer {
     margin-top: $lh*3;
 }
 
-
-
-.dropdown {
-  display: inline-block;
-}
 
 /* Tablet
    ========================================================================== */
