@@ -9,6 +9,7 @@ image:
 ---
 
 ## Published articles
+***
 
 __<a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. _International Studies Quarterly_. Forthcoming.<br>
 [ <a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/usve8/" target="_blank">Replication</a> \| <a href="https://osf.io/fwmcd/" target="_blank">Supplementary Information</a> ]
@@ -40,8 +41,9 @@ __<a href="https://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">P
 __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>__ (with Norma B. dos Santos & Rogério Farias). 2005. _Journal of World Trade_ 39(4): 637–670.<br>
 [ <a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_Farias_Cunha_2005_World_Trade.pdf" target="_blank">PDF</a> ]
 
-***
+
 ## Working papers
+***
 
 __When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets__ <br>
 [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
