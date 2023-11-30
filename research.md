@@ -42,7 +42,6 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 [ <a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_Farias_Cunha_2005_World_Trade.pdf" target="_blank">PDF</a> ]
 
 <br>
-<br>
 
 ## Working papers
 ***
