@@ -46,15 +46,15 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 __<a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets</a>__ <br>
 [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
-__Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__<br>
+__Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__ <br>
 
-__Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election__ (with Sarah Brooks and Layna Mosley)
+__Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election__ (with Sarah Brooks and Layna Mosley)<br>
 [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-16_12_22-sydney.white@yale.edu.pdf" target="_blank">IPES 2023 Paper</a> ]
 
-__Why Oppose Foreign Investment? Survey Experimental Evidence from India__ (with Quintin Beazer, Daniel Blake, and Srividya Jandhyala)
+__Why Oppose Foreign Investment? Survey Experimental Evidence from India__ (with Quintin Beazer, Daniel Blake, and Srividya Jandhyala)<br>
 [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-09_51_08-raphaelcunha2@gmail.com.pdf" target="_blank">IPES 2023 Paper</a> ]
 Srividya Jandhyala
 
-__Landslide Elections and Stock Market Volatility: Why Markets Fluctuate Even After Electoral Blowouts__ (with Paul Schuler)
+__Landslide Elections and Stock Market Volatility: Why Markets Fluctuate Even After Electoral Blowouts__ (with Paul Schuler)<br>
 
 
