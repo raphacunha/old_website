@@ -41,7 +41,8 @@ __<a href="https://dx.doi.org/10.1590/S0011-52582009000400003" target="_blank">P
 __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Generalized System of Preferences in General Agreement on Tariffs and Trade/World Trade Organization: Historical Background and Current Issues</a>__ (with Norma B. dos Santos & Rogério Farias). 2005. _Journal of World Trade_ 39(4): 637–670.<br>
 [ <a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD2005039" target="_blank">Publisher</a> \| <a href="../pdf/Santos_Farias_Cunha_2005_World_Trade.pdf" target="_blank">PDF</a> ]
 
-
+<br>
+<br>
 ## Working papers
 ***
 
