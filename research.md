@@ -47,24 +47,6 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 ***
 
 __When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets__ [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
-<details>
-    <summary>Course description</summary>
-<br />
-   Virtually all of the world’s largest, most productive, and most politically powerful companies
-have operations in multiple countries. These multinational enterprises (MNEs) are responsible for
-the majority of global trade, one-third of global GDP, and one quarter of global employment; they
-also engage in corruption, commit labor rights violations, and generate a large share of global carbon
-emissions.
-
-   In this course, we will study the MNE as a unique type of political actor. Drawing on research
-from scholars of international relations, economics, and business, we will attempt to answer questions
-such as: what determines the balance of power between MNEs and the developing countries
-that host them? How do governments regulate companies that operate in multiple—and sometimes,
-in dozens—of different national jurisdictions? How and why do MNEs lobby governments in
-order to achieve their preferred policies? And how can MNEs use their unique global structures to
-evade rules that they don’t want to follow? We will also frequently engage with ongoing, real-world
-interactions between MNEs and governments through the lens of social science theory.
-</details>
 
 __Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__ 
 
